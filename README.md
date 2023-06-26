@@ -8,13 +8,13 @@ I'm Marvis ALIMHIANTARE a software engineer.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a trainee @Semicolon Africa
-- 🔭 Currently looking for internship or entry level job placement.
-- 🔭 Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+<!-- 🔭 I’m currently a trainee @Semicolon Africa -->
+<!-- 🔭 Currently looking for internship or entry level job placement.-->
+<!-- 🔭 Most used line of code `git commit -m "Initial Commit"`-->
+<!-- 🤔 I’m looking for help with Outstanding Video ideas.-->
 - 📫 How to reach me: marvis.alimhiantare@gmail.com.
 <!-- - 😄 Pronouns: Marvis, ALIMHIANTARE, Marvechenky.
-- ⚡ Fun fact: I play games (COD my username Marvechenky). -->
+<!-- ⚡ Fun fact: I play games (COD my username Marvechenky). -->
 
 #### 1.0.1. Top Technologies
 
